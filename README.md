@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GaDayas&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaDayas&layout=compact)](https://github.com/GaDayas/github-readme-stats)
