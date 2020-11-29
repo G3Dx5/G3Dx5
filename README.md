@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=GaDayas&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=G3Dx5&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaDayas&layout=compact)](https://github.com/GaDayas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G3Dx5&layout=compact)](https://github.com/G3Dx5/github-readme-stats)
